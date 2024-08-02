@@ -3,9 +3,9 @@
 ## Shortcuts
 
 ```
-windows + tab
+🪟 + tab
 alt + tab
-windows + d
+🪟 + d
 alt + R
-windows + R
+🪟 + R
 ```
