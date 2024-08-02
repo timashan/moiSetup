@@ -1,3 +1,5 @@
+# Scoop
+
 [docs](https://github.com/ScoopInstaller/Scoop)
 
 ## Installation

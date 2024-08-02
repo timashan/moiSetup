@@ -1,3 +1,5 @@
+# PIPX
+
 [docs](https://pipx.pypa.io/stable/installation/)
 
 ## Installation
@@ -12,4 +14,3 @@ pipx ensurepath
 ```
 pipx --version
 ```
-
