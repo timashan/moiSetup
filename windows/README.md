@@ -3,5 +3,5 @@
 ```
 windows + tab
 alt + tab
-alt + d
+windows + d
 ```
