@@ -18,4 +18,6 @@ poetry env info
 poetry config virtualenvs.in-project true
 poetry shell
 poetry add <package> --group <group>
+poetry env use <python-version>
+poetry run python --version
 ```
