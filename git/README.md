@@ -7,6 +7,7 @@ git init
 git add <file>
 git add .
 git commit -m '<msg>'
+git commit --no-edit
 git push -u origin main
 git push
 git push --set-upstream origin master
