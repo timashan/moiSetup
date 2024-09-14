@@ -2,14 +2,24 @@
 
 ## Shortcuts
 
+### Code
+
 ```
 ctrl + d
 hold alt
-ctrl + r
-ctrl + p
-ctrl + `
 ctrl + a
 ctrl + f
+```
+
+### IDE
+
+```
+ctrl + p
+ctrl + shift + p
+ctrl + r
+ctrl + `
 ctrl + b
-sgift + alt + up/down
+shift + alt + up/down
+ctrl + tab
+ctrl + shift + tab
 ```
